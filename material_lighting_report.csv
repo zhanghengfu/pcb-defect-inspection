@@ -1,3 +1,0 @@
-source,method,material,lighting,images,gt_good,gt_bad,predicted_pass,gt_yield,pass_rate,escapes,escape_rate,false_rejects,false_reject_rate,images_with_missed_boxes,images_with_extra_boxes,TP,FP,FN,precision,recall,f1,fp_per_image,missed_box_rate
-DeepPCB,OpenCV,unknown,unknown,500,0,500,0,0.0,0.0,0,0.0,0,,415,499,2139,43874,1001,0.046486862408449785,0.6812101910828026,0.08703436209387017,87.748,0.31878980891719744
-DeepPCB,YOLO11n,unknown,unknown,500,0,500,0,0.0,0.0,0,0.0,0,,132,98,2955,154,185,0.9504663879060792,0.9410828025477707,0.9457513202112338,0.308,0.0589171974522293
